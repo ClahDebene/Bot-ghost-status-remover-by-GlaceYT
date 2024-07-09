@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["PLAYING","🔆Bu Bot Guwatli Tarafından Yapıldı.🔆"];
 
 
 let currentIndex = 0;
